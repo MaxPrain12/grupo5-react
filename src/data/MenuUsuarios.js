@@ -25,7 +25,7 @@ export const MenuUsuarios = [
       password: '1234',
       email: 'angel@email.com',
       foto: Angel,
-      info: 'Desde pequeño me los AnImAlEsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsS',
+      info: 'Desde pequeño me gustan los AnImAlEsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSs',
     },
     {
       nombre: 'Jose luis',
