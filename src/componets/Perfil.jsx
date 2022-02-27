@@ -52,7 +52,7 @@ class Perfil extends React.Component {
         <div id="iniciaSesion">
           <h1>Debes iniciar sesión primero.</h1>
           <Button variant="primary" onClick={this.cerrarSesion}>
-            <a id="botonAlLogin" href='/'>Ir al login</a>
+            <a id="botonAlLogin" href='grupo5-react/'>Ir al login</a>
           </Button>
         </div>
       );
