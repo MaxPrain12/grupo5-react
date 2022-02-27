@@ -10,7 +10,7 @@ class HeaderPagina extends React.Component {
             <Navbar bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand href="/grupo5-react">
-                        😶‍🌫️ Grupo 5
+                        ❤️ Grupo 5
                     </Navbar.Brand>
                     <Nav className="me-auto">
                         {MenuItems.map((item) => {
