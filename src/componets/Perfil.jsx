@@ -37,7 +37,7 @@ class Perfil extends React.Component {
               <p>Raza favorita:  {this.state.raza}</p>
               <p>{localStorage.getItem('info')}</p>
               <Button variant="primary" onClick={this.cerrarSesion}>
-                <a id="botonAlLogin" href='/'>Cerrar Sesion</a>
+                <a id="botonAlLogin" href='/grupo5-react/'>Cerrar Sesion</a>
               </Button>
             </div>
             <div className='FotoPerfil' style={{ backgroundImage: 'url(' + localStorage.getItem('foto') + ')' }}>
@@ -52,7 +52,7 @@ class Perfil extends React.Component {
         <div id="iniciaSesion">
           <h1>Debes iniciar sesión primero.</h1>
           <Button variant="primary" onClick={this.cerrarSesion}>
-            <a id="botonAlLogin" href='grupo5-react/'>Ir al login</a>
+            <a id="botonAlLogin" href='/grupo5-react/'>Ir al login</a>
           </Button>
         </div>
       );
