@@ -30,12 +30,12 @@ class Perfil extends React.Component {
         <div className='InicioMainSite'>
           <div className='PerfilData'>
             <div id="blockName">
-              <h1>Perfil de {localStorage.getItem('user')}!</h1>
+              <h1>Perfil de {localStorage.getItem('user')}</h1>
             </div>
             <div className='ContentRMenss'>
+              <p>{localStorage.getItem('info')}</p>
               <p>Email: {localStorage.getItem('email')}</p>
               <p>Raza favorita:  {this.state.raza}</p>
-              <p>{localStorage.getItem('info')}</p>
               <Button variant="primary" onClick={this.cerrarSesion}>
                 <a id="botonAlLogin" href='/grupo5-react/'>Cerrar Sesion</a>
               </Button>

@@ -65,7 +65,7 @@ class Login extends React.Component {
         <div className='InicioMainSite'>
           <div className='PrincipalContent'>
             <div id="blockName">
-              <h1>Hi {localStorage.getItem('user')}!</h1>
+              <h1>¡Hola {localStorage.getItem('user')}!</h1>
             </div>
             <div className='ContentRMenss'>
               <p>{localStorage.getItem('info')}</p>
