@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/grupo5-react/static/css/main.8f4b5754.css",
-    "main.js": "/grupo5-react/static/js/main.659902fe.js",
+    "main.css": "/grupo5-react/static/css/main.229f07df.css",
+    "main.js": "/grupo5-react/static/js/main.c1bbfd96.js",
     "static/js/787.fbd40f0b.chunk.js": "/grupo5-react/static/js/787.fbd40f0b.chunk.js",
     "static/media/4K_35.mp4": "/grupo5-react/static/media/4K_35.2c947c6098476e84bbec.mp4",
     "static/media/Alder.svg": "/grupo5-react/static/media/Alder.f92cff6b16c42cc73d84a33ccb20033e.svg",
@@ -11,12 +11,12 @@
     "static/media/Jose.svg": "/grupo5-react/static/media/Jose.49a348484a5c77a98504b6bb4bb4a858.svg",
     "static/media/login.svg": "/grupo5-react/static/media/login.855b842f483ae9b8f6545b37d48cb030.svg",
     "index.html": "/grupo5-react/index.html",
-    "main.8f4b5754.css.map": "/grupo5-react/static/css/main.8f4b5754.css.map",
-    "main.659902fe.js.map": "/grupo5-react/static/js/main.659902fe.js.map",
+    "main.229f07df.css.map": "/grupo5-react/static/css/main.229f07df.css.map",
+    "main.c1bbfd96.js.map": "/grupo5-react/static/js/main.c1bbfd96.js.map",
     "787.fbd40f0b.chunk.js.map": "/grupo5-react/static/js/787.fbd40f0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f4b5754.css",
-    "static/js/main.659902fe.js"
+    "static/css/main.229f07df.css",
+    "static/js/main.c1bbfd96.js"
   ]
 }
