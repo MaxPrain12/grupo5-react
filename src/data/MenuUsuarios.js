@@ -25,7 +25,7 @@ export const MenuUsuarios = [
       password: '1234',
       email: 'angel@email.com',
       foto: Angel,
-      info: 'Hola me llamo Angel a mi me gustan los gato y los perros, no tengo ninguno de los dos pero me gusta verlos',
+      info: 'Desde pequeño me los AnImAlEsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsS',
     },
     {
       nombre: 'Jose luis',
