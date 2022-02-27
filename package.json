@@ -1,8 +1,8 @@
 {
   "name": "proyecto-grupo5",
   "version": "0.1.0",
-  "private": true,
-  "homepage": ".",
+  "private": false,
+  "homepage": "https://MaxPrain12.github.io/grupo5-react",
   "dependencies": {
     "@popperjs/core": "^2.11.2",
     "@testing-library/jest-dom": "^5.16.1",
