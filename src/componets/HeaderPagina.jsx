@@ -23,7 +23,7 @@ class HeaderPagina extends React.Component {
                     </Nav>
                     <Navbar.Collapse className="justify-content-end">
                         <Navbar.Text>
-                            Logueado como : <a href="/grupo5-react/perfil">{localStorage.getItem('user')}</a>
+                            Logueado como : <a>{localStorage.getItem('user')}</a>
                         </Navbar.Text>
                     </Navbar.Collapse>
                 </Container>
